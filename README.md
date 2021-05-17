@@ -9,6 +9,32 @@ In this project, approximately 50 datasets were accessable to choose from and an
 ## Results
 
 - How many Vine reviews and non-Vine reviews were there?
+
+  Total Vine reviews
+
+  ![](https://github.com/Ariannatopbjerg/Amazon_Vine_Analysis/blob/main/images/total_paid.PNG)
+
+  Total non-Vine reviews
+
+  ![](https://github.com/Ariannatopbjerg/Amazon_Vine_Analysis/blob/main/images/total_unpaid.PNG)
+
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+  Total 5 star Vine reviews
+
+  ![](https://github.com/Ariannatopbjerg/Amazon_Vine_Analysis/blob/main/images/5star_paid.PNG)
+
+  Total 5 star non-Vine reviews
+
+  ![](https://github.com/Ariannatopbjerg/Amazon_Vine_Analysis/blob/main/images/5star_unpaid.PNG)
+
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+  Percentage of 5 star Vine reviews
+
+  ![](https://github.com/Ariannatopbjerg/Amazon_Vine_Analysis/blob/main/images/percent_paid.PNG)
+
+  Percentage of 5 star non-Vine reviews
+
+  ![](https://github.com/Ariannatopbjerg/Amazon_Vine_Analysis/blob/main/images/percent_unpaid.PNG)
 
