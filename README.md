@@ -30,12 +30,6 @@ In this project, approximately 50 datasets were accessable to choose from and an
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-## Summary
-
-By looking at the above results, there is no positive bias for reviews in the Vine program. Both Vine and non-Vine reviews showed a 52% 5 star rate for the products. This shows that the Vine:non-Vine reviews ratio is almost equal to eachother. 
-
-
-
   Percentage of 5 star Vine reviews
 
   ![](https://github.com/Ariannatopbjerg/Amazon_Vine_Analysis/blob/main/images/percent_paid.PNG)
@@ -44,3 +38,6 @@ By looking at the above results, there is no positive bias for reviews in the Vi
 
   ![](https://github.com/Ariannatopbjerg/Amazon_Vine_Analysis/blob/main/images/percent_unpaid.PNG)
 
+## Summary
+
+By looking at the above results, there is no positive bias for reviews in the Vine program. Both Vine and non-Vine reviews showed a 52% 5 star rate for the products, which indicates that the Vine:non-Vine reviews ratio is almost equal to eachother.
