@@ -41,3 +41,5 @@ In this project, approximately 50 datasets were accessable to choose from and an
 ## Summary
 
 By looking at the above results, there is no positive bias for reviews in the Vine program. Both Vine and non-Vine reviews showed a 52% 5 star rate for the products, which indicates that the Vine:non-Vine reviews ratio is almost equal to eachother.
+
+An additional analysis that could be done to support my above statement would be to analyse the mean, median, and mode of the star ratings for the Vine and non-Vine reviews.
